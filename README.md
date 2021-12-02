@@ -2,7 +2,7 @@
 
 Combining ImageJ data with ggplot for fun
 
-<img src="https://user-images.githubusercontent.com/95383762/144492334-8b9df580-16c9-4c2d-9ec1-98cbb539176f.png" width="600">
+<img src="https://user-images.githubusercontent.com/95383762/144492725-87377a86-35e4-4807-8feb-cd699e5ff093.png" width="600">
 
 Original image: 
 
